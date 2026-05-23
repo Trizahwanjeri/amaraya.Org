@@ -1,0 +1,6 @@
+{
+  "name": "Geo Attend Monitor",
+  "description": "An automated attendance monitoring system leveraging geofencing, biometric verification, and mobile localization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
